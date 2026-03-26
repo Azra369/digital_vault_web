@@ -1,1 +1,10 @@
 @import "tailwindcss";
+
+@theme {
+  --color-luxury-black: #050505;
+  --color-luxury-card: #0a0a0a;
+  --color-luxury-red: #c62828;  /* BURASI ÇOK ÖNEMLİ: Bu isim tam olarak böyle mi? */
+  --color-luxury-glow: #ff5252;
+  --color-luxury-border: #1a1a1a;
+  --color-luxury-text: #707070;
+}
